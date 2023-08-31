@@ -13,4 +13,4 @@ My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenTianyu&layout=compact&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenTianyu&show_icons=true&theme=onedark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenTianyu&show_icons=true&theme=onedark) -->
