@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://seventianyu.github.io)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yu-tian-425a15197)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/y-tree)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=tencentqq&logoColor=white)](mailto:tianyu_seven@qq.com)
 
 - 🌱 Large Language Model, Causal Inference
